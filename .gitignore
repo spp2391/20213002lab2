@@ -1,0 +1,15 @@
+/matrix/target/
+/file_demo
+/recursive_ls
+/typing
+/process_signal
+/pipe_ipc
+/pipe_chat
+/mq_chat
+/mmap_copy
+/minishell
+/dbus_server
+/dbus_client
+/demo_dir/
+/test/
+/*.txt
